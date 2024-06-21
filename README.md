@@ -1,16 +1,16 @@
 ## Hi there 👋
+Boa vindas ao meu perfil.
 
+Meu nome é Gabriel Lucas Damasceno
 
-**gax2345/gax2345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estou estudando Alura
 
-Here are some ideas to get you started:
+- Trabalho como Jovem Apreadiz na Empresa Sonda Supermercado
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- E estou o Ensino Medio
 
+### Informações para contato : 
+
+lucasgad45@gmail.com
+
+![](https://tenor.com/btF9G.gif)
